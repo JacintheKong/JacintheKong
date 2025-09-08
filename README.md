@@ -1,20 +1,11 @@
-## Hi there 👋
+<h2 align="left">
+ <abc>
+  <br>Hi there! I'm June Kong, Full Stack Software Developer :computer:<br>
+ </abc>
+</h2>
 
-<!--
-**JacintheKong/JacintheKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">:hammer_and_wrench: Technologies & Tools I use:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Technologies & Tools I use
 <p align="left">
     <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -35,5 +26,12 @@ Here are some ideas to get you started:
     <a href="https://www.adobe.com/creativecloud.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
     <a href="https://www.canva.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 </p>
+
+<h2 align="left">👩‍💻 About Me:</h2>
+- 🔭 :computer: I’m currently pursuing a Master’s in Computer Science at the Georgia Institute of Technology
+- 🌱 I’m currently working at Mina AI, an AI enabled marketplace for baby items
+- 📫 How to reach me: yk2731@columbia.edu
+
+<h2 align="left">🙌 Let's get connected:</h2>
+<a href="[https://www.linkedin.com/in/choi-ying-yau/](https://www.linkedin.com/in/yejunkong/)" rel="nofollow noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"> </a>
