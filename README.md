@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently pursuing a Master’s in Computer Science at the Georgia Institute of Technology
 
-- 🌱 I’m currently working at Mina AI, an AI enabled marketplace for baby items
+- 🌱 I’m currently working at Mina AI, an AI enabled marketplace for baby items: https://www.getmina.app/ 
 
 - 📫 How to reach me: yk2731@columbia.edu
 
