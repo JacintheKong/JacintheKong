@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>Hi there! I'm June Kong, Full Stack Software Developer :computer:<br>
+  <br>Hi there! I'm Claire Kong, Full Stack Software Developer :computer:<br>
  </abc>
 </h2>
 
